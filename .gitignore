@@ -7,10 +7,13 @@ Examples/Monocular/mono_tum
 Examples/RGB-D/rgbd_tum
 Examples/ROS/ORB_SLAM2/CMakeLists.txt.user
 Examples/ROS/ORB_SLAM2/MonoAR
+Examples/ROS/ORB_SLAM2/Mono
 Examples/ROS/ORB_SLAM2/RGBD
 Examples/ROS/ORB_SLAM2/Stereo
-Examples/ROS/ORB_SLAM2/Mono
 Examples/ROS/ORB_SLAM2/build/
+Examples/ROS/ORB_SLAM2_D/Mono
+Examples/ROS/ORB_SLAM2_D/RGBD
+Examples/ROS/ORB_SLAM2_D/Stereo
 Examples/Stereo/stereo_euroc
 Examples/Stereo/stereo_kitti
 Examples/myvideo/myvideo
